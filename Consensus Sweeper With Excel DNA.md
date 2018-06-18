@@ -1,7 +1,7 @@
 # Consensus Sweeper With Excel DNA   
 *Duration :* **Sept'15 - March'16**  
 *Team Size :* **3**  
-*Technology :* **C#, SQLite*8  
+*Technology :* **C#, SQLite**  
 *Operating System :* **Windows**   
 *Tools Used :* **Visual Studio, Mantis, Tortoise SVN**  
 *Description :* A desktop application uses data source’s API to load data.   

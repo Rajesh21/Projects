@@ -9,5 +9,5 @@ transfer the vote rights from one user to another.
 We have implemneted Open-Assets library function which is required to do the transaction in Java.   
 Main task is to understand the blockchain technology and working with open assets protocol,   
 which will used to create the application over blockchain network using the bitcoin address.  
-Reference link of [Open-Assets Library]  (https://github.com/haw-itn/openassets-ruby)   
+Reference link of [Open-Assets Library] (https://github.com/haw-itn/openassets-ruby).   
 *Role :* **Developer**  

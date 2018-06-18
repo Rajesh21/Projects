@@ -1,6 +1,6 @@
 # Quantifiable Studies 
-*Duration :* **April'16 - Dec'16**
-*Team Size :* **3**
+*Duration :* **April'16 - Dec'16**  
+*Team Size :* **3**  
 *Technology :* **C#, SQL Server**  
 *Operating System :* **Windows**   
 *Tools Used :* **Visual Studio, SQL Server, Tortoise SVN**  
