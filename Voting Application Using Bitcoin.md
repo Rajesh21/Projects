@@ -1,7 +1,7 @@
 # Voting Application Using Bitcoin (On-Site project Japan)  
 *Duration :* **Feb'18 - May'18**  
 *Team Size :* **3**  
-*Technology :* **Java (Android) , BitcoinJ (Java library for Bitcoin)  **  
+*Technology :* **Java (Android) , BitcoinJ (Java library for Bitcoin)**  
 *Operating System :* **Ubuntu 17.10**   
 *Tools Used :* **Android Studio**  
 *Description :* Using BitcoinJ library we have created Voting appliction which uses Open-Assets protocol to issue,   
